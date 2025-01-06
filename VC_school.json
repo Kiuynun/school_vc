@@ -1,0 +1,18 @@
+{
+    "context": {
+      "credentialSubject": {
+        "id": "https://example.com/schema/did",
+        "degree": {
+          "type": "https://example.com/schema/purpose",
+          "name": "https://example.com/schema/useName",
+          "student number": "https://example.com/schema/scool_number"
+        }
+      },
+      "expiration": "https://example.com/schema/deadline",
+      "degree_plan": "https://example.com/schema/degree",
+      "valid": {
+        "type": "https://example.com/schema/format",
+        "address": "https://example.com/schema/plase"
+      }
+    }
+}
